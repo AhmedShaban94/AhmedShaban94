@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **ahmed.shaban.sh@gmail.com**
 
-- 📄 Know about my experiences [shorturl.at/cmqAP](shorturl.at/cmqAP)
+- 📄 Know about my experiences [my resume](https://docs.google.com/document/d/1rRSAhincvOswTzp49UM4n_f9XyAchQvd8G3KjzBZKLU/edit?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
