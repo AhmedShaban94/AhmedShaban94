@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ahmed</h1>
 <h3 align="center">Software developer interested in C++, Computer Vision and Machine learning</h3>
 
-- 🔭 I’m currently working on [Houndify](https://www.houndify.com/)
+- 🔭 I’m currently working on [Tornatech](https://www.tornatech.com/)
 
-- 💬 Ask me about **Computer vision and Machine learning**
+- 💬 Ask me about **C++ and Embedded Systems**
 
 - 📫 How to reach me **ahmed.shaban.sh@gmail.com**
 
